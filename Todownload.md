@@ -14,9 +14,11 @@ List of best mirrors for IP address 36.112.29.62, located at 39.907501,116.39720
 Map showing the closest mirrors
 
 Found 1 mirror which handle this country (CN)
+
 https://mirrors.sjtug.sjtu.edu.cn/qt/archive/online_installers/4.5/qt-unified-windows-x64-4.5.2-online.exe (cn, prio 100)
 
 Found 2 mirrors in other countries, but same continent (AS)
+
 https://ftp.jaist.ac.jp/pub/qtproject/archive/online_installers/4.5/qt-unified-windows-x64-4.5.2-online.exe (jp, prio 100)
 https://ftp.yz.yamagata-u.ac.jp/pub/qtproject/archive/online_installers/4.5/qt-unified-windows-x64-4.5.2-online.exe (jp, prio 100)
 
