@@ -1,4 +1,4 @@
-## 扫雷OJ版本
+## 扫雷控制台版本(Minesweeper cmd version)
 
 ### 已实现功能：
 
