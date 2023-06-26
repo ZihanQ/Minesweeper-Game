@@ -4,10 +4,7 @@ Qt Framework learning
 ## 基础目标：
 
 学习Qt(c++)开发框架
-
-### 阶段一：
-
-实现windows下扫雷程序
+实现Windows下经典扫雷游戏
 
 ## 参考书籍
 
