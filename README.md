@@ -4,7 +4,16 @@ Qt Framework learning
 ## 基础目标：
 
 学习Qt(c++)开发框架
+
 实现Windows下经典扫雷游戏
+
+## 开发环境
+
+框架 : qt 6.2.4
+
+集成开发环境(IDE) : Qt Creator 10.0.1(Community)
+
+编译器 : MinGW 11.2.0 64-bit for C++
 
 ## 参考书籍
 
